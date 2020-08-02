@@ -1,0 +1,12 @@
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\bin\Release\CSV_View.exe.config
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\bin\Release\CSV_View.exe
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\bin\Release\CSV_View.pdb
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\obj\Release\CSV_View.Form1.resources
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\obj\Release\CSV_View.Properties.Resources.resources
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\obj\Release\CSV_View.csproj.GenerateResource.Cache
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\obj\Release\CSV_View.exe
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\obj\Release\CSV_View.pdb
+C:\Users\Poorya\Documents\Visual Studio 2012\Projects\CSV_View\CSV_View\obj\Release\CSV_View.csprojResolveAssemblyReference.cache
+C:\Users\Poorya\Desktop\Source_codes\CSV_View(v3.0.8)\CSV_View\bin\Release\CSV_View.exe.config
+C:\Users\Poorya\Desktop\Source_codes\CSV_View(v3.0.8)\CSV_View\obj\Release\CSV_View.exe
+C:\Users\Poorya\Desktop\Source_codes\CSV_View(v3.0.8)\CSV_View\obj\Release\CSV_View.pdb
